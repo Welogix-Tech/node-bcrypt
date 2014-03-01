@@ -1,0 +1,23 @@
+{
+  "name": "node-bcrypt",
+  "version": "0.0.1",
+  "description": "a node javascript clone of OpenBSD's Blowfish password hashing code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurten/node-bcrypt.git"
+  },
+  "keywords": [
+    "node",
+    "bcrypt",
+    "blowfish",
+    "password",
+    "hashing",
+    "code"
+  ],
+  "author": "Kurten Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurten/node-bcrypt/issues"
+  }
+}
